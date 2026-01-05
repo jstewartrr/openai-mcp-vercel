@@ -1,0 +1,7 @@
+{
+  "name": "openai-mcp-vercel",
+  "version": "1.0.0",
+  "dependencies": {
+    "snowflake-sdk": "^1.9.0"
+  }
+}
